@@ -1,0 +1,324 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"req",
+				"request"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"conta",
+				"contact-form"
+			],
+			[
+				"thi",
+				"third-slider"
+			],
+			[
+				"rem",
+				"removeClass"
+			],
+			[
+				"site",
+				"site_url"
+			],
+			[
+				"kp-",
+				"kp-essentials"
+			],
+			[
+				"prin",
+				"print_r"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/bulbul/project-laravel/app/Http/Controllers/Admin/AboutController.php",
+		"/C/xampp/htdocs/bulbul/marketplace/resources/views/admin/profile/index.blade.php",
+		"/C/xampp/htdocs/bulbul/marketplace/resources/views/admin/page/add.blade.php",
+		"/C/xampp/htdocs/bulbul/project-laravel/resources/views/admin/layouts/adminlayout.blade.php",
+		"/C/xampp/htdocs/bulbul/project-laravel/resources/views/admin/about/index.blade.php",
+		"/C/xampp/htdocs/bulbul/marketplace/resources/views/admin/layouts/adminlayout.blade.php",
+		"/C/xampp/htdocs/bulbul/project-laravel/app/Model/About.php",
+		"/C/xampp/htdocs/bulbul/marketplace/resources/views/admin/page/edit.blade.php",
+		"/C/xampp/htdocs/bulbul/project-laravel/app/Model/Gallery.php",
+		"/C/xampp/htdocs/bulbul/marketplace/app/Page.php",
+		"/C/xampp/htdocs/bulbul/project-laravel/app/Http/Controllers/Admin/PageController.php",
+		"/C/xampp/htdocs/bulbul/project-laravel/app/Model/Career.php",
+		"/C/xampp/htdocs/bulbul/project-laravel/app/Http/Middleware/UserMiddleware.php",
+		"/C/xampp/htdocs/bulbul/project-laravel/app/Http/Middleware/AdminMiddleWare.php",
+		"/C/Users/CISPL-BULBUL AHMED/Desktop/tiny.html",
+		"/C/xampp/htdocs/bulbul/marketplace/public/admintheme/assets/js/jquery.nanoscroller.min.js.map.txt",
+		"/C/xampp/htdocs/bulbul/marketplace/resources/views/admin/page/index.blade.php",
+		"/D/laravel/accubizz/app/Http/routes.php",
+		"/C/xampp/htdocs/bulbul/marketplace/database/migrations/2020_04_24_181132_create_pages_table.php",
+		"/C/xampp/htdocs/bulbul/marketplace/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/D/bulbul/HTML/admin-HTML/admin/website1/add_listing.html",
+		"/D/bulbul/HTML/admin-HTML/admin/website1/listing.html",
+		"/C/xampp/htdocs/bulbul/marketplace/app/Http/Controllers/Admin/AdminController.php",
+		"/C/xampp/htdocs/bulbul/marketplace/app/User.php",
+		"/C/xampp/htdocs/bulbul/project-laravel/resources/views/admin/about/edit.blade.php",
+		"/C/xampp/htdocs/bulbul/marketplace/app/Http/Middleware/RedirectIfAuthenticated.php",
+		"/C/xampp/htdocs/bulbul/marketplace/app/Http/Middleware/UserMiddleware.php",
+		"/C/xampp/htdocs/bulbul/project-laravel/app/Model/JobForm.php",
+		"/C/xampp/htdocs/bulbul/project-laravel/app/Http/Controllers/Admin/AdminController.php",
+		"/C/xampp/htdocs/bulbul/project-laravel/app/User.php",
+		"/C/xampp/htdocs/bulbul/marketplace/database/migrations/2020_04_24_180157_create_products_table.php",
+		"/C/xampp/htdocs/bulbul/marketplace/database/seeds/UsersTableSeeder.php",
+		"/C/xampp/htdocs/bulbul/mylara/app/Http/Controllers/Auth/ForgotPasswordController.php",
+		"/C/xampp/htdocs/bulbul/mylara/app/Http/Controllers/Admin/User/UserController.php",
+		"/C/xampp/htdocs/bulbul/mylara/app/User.php",
+		"/C/xampp/htdocs/bulbul/marketplace/app/Http/Controllers/Controller.php",
+		"/C/xampp/htdocs/bulbul/marketplace/app/Http/Middleware/AdminMiddleWare.php",
+		"/D/bulbul/HTML/admin-HTML/admin/website1/index.html",
+		"/D/email-template/email-template.html",
+		"/C/Users/CISPL-BULBUL AHMED/Desktop/email-template.html",
+		"/C/Users/CISPL-BULBUL AHMED/AppData/Local/Temp/fz3temp-2/header-menu.php",
+		"/C/Users/CISPL-BULBUL AHMED/AppData/Local/Temp/fz3temp-2/index.php",
+		"/C/Users/CISPL-BULBUL AHMED/AppData/Local/Temp/fz3temp-2/bundle.js",
+		"/C/xampp/htdocs/bulbul/marketplace/routes/admin.php",
+		"/C/xampp/htdocs/bulbul/marketplace/resources/views/admin/login.blade.php",
+		"/C/xampp/htdocs/bulbul/project-laravel/resources/views/admin/password/changePassword.blade.php",
+		"/C/xampp/htdocs/bulbul/marketplace/resources/views/admin/dashboard/index.blade.php",
+		"/C/xampp/htdocs/bulbul/marketplace/resources/views/admin/password/changePassword.blade.php",
+		"/C/xampp/htdocs/bulbul/marketplace/app/Http/Controllers/Admin/password/changePassword.blade.php",
+		"/C/xampp/htdocs/bulbul/marketplace/resources/views/password/changePassword.blade.php",
+		"/C/xampp/htdocs/bulbul/marketplace/resources/views/admin/layouts/leftmenu.blade.php",
+		"/C/xampp/htdocs/bulbul/project-laravel/resources/views/admin/layouts/leftmenu.blade.php",
+		"/C/xampp/htdocs/bulbul/project-laravel/app/Http/Kernel.php",
+		"/C/xampp/htdocs/bulbul/project-laravel/app/Providers/RouteServiceProvider.php",
+		"/D/laravel-command",
+		"/C/xampp/htdocs/bulbul/marketplace/routes/web.php",
+		"/C/xampp/htdocs/bulbul/marketplace/app/Http/Kernel.php",
+		"/C/xampp/htdocs/bulbul/marketplace/app/Providers/RouteServiceProvider.php",
+		"/C/xampp/htdocs/bulbul/project-laravel/app/Http/Middleware/RevalidateBackHistory.php",
+		"/D/bulbul/nail-renew/23-04-2020/sale_popup1.php",
+		"/C/Users/CISPL-BULBUL AHMED/Desktop/1111.html",
+		"/C/xampp/htdocs/bulbul/project-laravel/routes/web.php",
+		"/C/xampp/htdocs/bulbul/project-laravel/routes/console.php",
+		"/C/xampp/htdocs/bulbul/project-laravel/routes/channels.php",
+		"/C/xampp/htdocs/bulbul/project-laravel/routes/api.php",
+		"/C/xampp/htdocs/bulbul/project-laravel/routes/admin.php",
+		"/D/bulbul/nail-renew/23-04-2020/error_log",
+		"/D/bulbul/HTML/admin-HTML/admin/website1/alert.html",
+		"/C/xampp/htdocs/bulbul/marketplace/database/seeds/DatabaseSeeder.php",
+		"/C/xampp/htdocs/bulbul/project-laravel/resources/views/admin/login.blade.php",
+		"/C/xampp/htdocs/bulbul/marketplace/public/admintheme/assets/js/theme-functions.js",
+		"/D/bulbul/HTML/admin-HTML/admin/website1/js/theme-functions.js",
+		"/D/bulbul/HTML/admin-HTML/admin/website1/js/jquery.js",
+		"/D/bulbul/HTML/admin-HTML/admin/website1/js/jquery.nanoscroller.js",
+		"/C/xampp/htdocs/bulbul/marketplace/app/Http/Controllers/PhotoController.php",
+		"/C/xampp/htdocs/bulbul/marketplace/.env",
+		"/C/xampp/htdocs/bulbul/marketplace/public/admintheme/assets/login.html",
+		"/C/xampp/htdocs/bulbul/marketplace/public/admintheme/assets/js/jquery.js",
+		"/C/xampp/htdocs/bulbul/project-laravel/app/Http/Controllers/Controller.php",
+		"/C/Users/CISPL-BULBUL AHMED/AppData/Local/Temp/fz3temp-3/terms-conditions.php",
+		"/C/Users/CISPL-BULBUL AHMED/AppData/Local/Temp/fz3temp-3/privacy-policy.php",
+		"/C/xampp/htdocs/bulbul/mylara/routes/admin.php",
+		"/D/bulbul/kp-essentials.com/21-04-2020/checkout.php",
+		"/C/xampp/htdocs/bulbul/project-laravel/e121826.sql",
+		"/C/xampp/htdocs/bulbul/project-laravel/database/seeds/UsersTableSeeder.php",
+		"/C/xampp/htdocs/bulbul/project-laravel/.htaccess",
+		"/C/xampp/htdocs/bulbul/project-laravel/.htaccess.txt",
+		"/C/Users/CISPL-BULBUL AHMED/AppData/Local/Temp/fz3temp-3/index.php",
+		"/C/Users/CISPL-BULBUL AHMED/AppData/Local/Temp/fz3temp-3/about.php",
+		"/C/xampp/htdocs/bulbul/mylara/routes/web.php",
+		"/D/bulbul/nail-renew/21-04-2020/upsell1.php",
+		"/C/xampp/htdocs/bulbul/project-laravel/app/Http/Controllers/Auth/LoginController.php",
+		"/D/bulbul/ceros.dev/22-04-2020/thank-you.tpl",
+		"/D/bulbul/nail-renew/21-04-2020/upsell1.tpl",
+		"/C/xampp/htdocs/bulbul/mylara/app/Http/Kernel.php",
+		"/C/xampp/htdocs/bulbul/mylara/app/Http/Middleware/Authenticate.php",
+		"/C/xampp/htdocs/bulbul/mylara/app/Http/Controllers/Controller.php",
+		"/C/Users/CISPL-BULBUL AHMED/AppData/Local/Temp/fz3temp-3/marketplace.php",
+		"/C/xampp/htdocs/bulbul/mylara/routes/api.php",
+		"/C/xampp/htdocs/bulbul/project-laravel/database/seeds/DatabaseSeeder.php",
+		"/C/xampp/htdocs/bulbul/project-laravel/database/migrations/2019_10_04_073810_create_processes_table.php",
+		"/C/Users/CISPL-BULBUL AHMED/AppData/Local/Temp/fz3temp-2/equity-marketplace.html",
+		"/D/bulbul/nail-renew/20-04-2020/common_pixel-gt.php",
+		"/D/bulbul/kp-essentials.com/21-04-2020/ajax_update_cart.php",
+		"/C/Users/CISPL-BULBUL AHMED/AppData/Local/Temp/fz3temp-2/upsell1.tpl",
+		"/C/Users/CISPL-BULBUL AHMED/AppData/Local/Temp/fz3temp-2/__common_pixel__.tpl",
+		"/C/Users/CISPL-BULBUL AHMED/AppData/Local/Temp/fz3temp-2/test.php",
+		"/D/bulbul/kp-essentials.com/21-04-2020/original/checkout.php",
+		"/C/Users/CISPL-BULBUL AHMED/AppData/Local/Temp/fz3temp-2/ajax_update_cart.php",
+		"/C/Users/CISPL-BULBUL AHMED/AppData/Local/Temp/fz3temp-2/checkout.php",
+		"/D/bulbul/nail-renew/21-04-2020/index.tpl",
+		"/C/Users/CISPL-BULBUL AHMED/Desktop/a1.php",
+		"/C/xampp/htdocs/bulbul/project-laravel/.env",
+		"/C/xampp/htdocs/bulbul/project-laravel/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/C/Users/CISPL-BULBUL AHMED/Desktop/1.html",
+		"/C/Users/CISPL-BULBUL AHMED/AppData/Local/Temp/fz3temp-2/login.php",
+		"/C/Users/CISPL-BULBUL AHMED/AppData/Local/Temp/fz3temp-2/thank-you.tpl",
+		"/C/Users/CISPL-BULBUL AHMED/AppData/Local/Temp/fz3temp-2/upsell2.tpl",
+		"/D/bulbul/nail-renew/20-04-2020/bundle/upsell1.tpl",
+		"/C/Users/CISPL-BULBUL AHMED/AppData/Local/Temp/fz3temp-2/index.tpl",
+		"/D/bulbul/nail-renew/20-04-2020/taboola-pixel.php",
+		"/C/Users/CISPL-BULBUL AHMED/AppData/Local/Temp/fz3temp-2/upsell3.tpl",
+		"/D/bulbul/nail-renew/20-04-2020/header-new-gt.php",
+		"/C/Users/CISPL-BULBUL AHMED/AppData/Local/Temp/fz3temp-2/common_pixel.php",
+		"/C/Users/CISPL-BULBUL AHMED/AppData/Local/Temp/fz3temp-2/all_script.php",
+		"/C/Users/CISPL-BULBUL AHMED/AppData/Local/Temp/fz3temp-2/order.php",
+		"/C/Users/CISPL-BULBUL AHMED/AppData/Local/Temp/fz3temp-2/taboola-pixel.php",
+		"/C/Users/CISPL-BULBUL AHMED/Desktop/ddd.php"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 118.4,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "ma.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
