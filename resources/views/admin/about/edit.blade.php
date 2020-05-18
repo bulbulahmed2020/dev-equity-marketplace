@@ -42,9 +42,9 @@
                 @endif
 
                     <div class="content_box">
-                        <form class="form-horizontal" action="{{route('')}}" method="post">
+                        <form class="form-horizontal" action="" method="post">
                            @csrf
-                           <input type="hidden" name="page_id" value="{{$edit->id}}">
+                           <input type="hidden" name="page_id" value="">
                             <div class="form_row">
                                 <div class="col span_1_of_5"><label>Full Name</label></div>
                                 <div class="col span_4_of_5"><input name="full_name" type="text"></div>
@@ -64,9 +64,9 @@
                                 <div class="col span_1_of_5"><label>Role</label></div>
                                 <div class="col span_4_of_5"><select name="role_in_company">
 
-                                     @foreach ($role_records as $role_record)
-                                     <option value="<?=$role_record->id;?>" selected><?=$role_record->role;?></option>
-                                      @endforeach
+                                    
+                                     <option value="" selected></option>
+                                     
 
                             </select></div>
                             </div>
